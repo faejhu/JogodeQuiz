@@ -1,0 +1,76 @@
+[
+
+        "1": "Para que serve  ?",
+        "2": "Para que serve ?",
+        "3": "Para que serve ?",
+        "4": "Para que serve ?",
+        "5": "Para que serve  ?",
+        "6": "Para que serve  ?",
+        "7": "Para que serve ?",
+        "8": "Para que serve ?",
+        "9": "Para que serve ?",
+        "10": "Para que serve?",
+    },
+    {
+        "1": [
+            "23",
+            "32",
+            "33",
+            "43"
+        ],
+        "2": [
+            "get()",
+            "input()",
+            "gets()",
+            "scan()"
+        ],
+        "3": [
+            "Mumbai",
+            "Delhi",
+            "Chennai",
+            "Lucknow"
+        ],
+        "4": [
+            "TURBO C",
+            "Py Interpreter",
+            "Notepad",
+            "IDE"
+        ],
+        "5": [
+            "Patna",
+            "Delhi",
+            "Benaras",
+            "Agra"
+        ],
+        "6": [
+            "custom location",
+            "end",
+            "center",
+            "beginning"
+        ],
+        "7": [
+            "Bengluru",
+            "Kochin",
+            "Mumbai",
+            "vishakhapatnam"
+        ],
+        "8": [
+            "perl",
+            "css",
+            "python",
+            "java"
+        ],
+        "9": [
+            "function",
+            "void",
+            "fun",
+            "def"
+        ],
+        "10": [
+            "all",
+            "var",
+            "let",
+            "global"
+        ]
+    }
+]
